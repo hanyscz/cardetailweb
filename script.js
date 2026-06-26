@@ -435,11 +435,7 @@ const translations = {
         de: "Adresse: Načeratice 124, 669 02 Znojmo (Tschechien)",
         en: "Address: Naceratice 124, 669 02 Znojmo (Czech Rep.)"
     },
-    f_tax_note: {
-        cs: "Možnost fakturace jako daňový náklad pro firmy.",
-        de: "Rechnungsstellung als steuerlich absetzbare Betriebsausgabe für Unternehmen.",
-        en: "Invoicing options available as a tax-deductible expense for business entities."
-    },
+
     footer_web_by: {
         cs: "Navrženo týmem Antigravity",
         de: "Entworfen vom Antigravity-Team",
